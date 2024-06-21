@@ -1,4 +1,4 @@
-# ETL with Python
+# ETL in Python
 
 <p align="center">
   <img src="https://github.com/floresernesto95/Images/blob/main/project-python-etl.png"/>
