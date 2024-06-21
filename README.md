@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="project-python-etl.png"/>
-</p>![image](https://github.com/floresernesto95/ETL-With-Python/assets/106546405/336a24ee-73a4-48ca-9123-541ecca0fd98)
-
+</p>
 
 ## Project Overview
 
