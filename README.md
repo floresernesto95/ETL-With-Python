@@ -1,5 +1,9 @@
 # ETL with Python
 
+<p align="center">
+  <img src="docs/_images/Batalla naval - Foto proyecto 1.png"/>
+</p>![image](https://github.com/floresernesto95/Images/blob/main/project-python-etl.png)
+
 ## Project Overview
 
 This project, "ETL with Python," showcases a robust Extract, Transform, and Load (ETL) pipeline developed using Python. It demonstrates my proficiency in data extraction from web APIs, data transformation and manipulation using the `petl` library, and loading data into an MS SQL database. The project efficiently handles configuration management, error handling, and data integration tasks, making it a comprehensive example of a practical ETL solution.
