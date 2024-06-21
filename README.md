@@ -1,8 +1,9 @@
 # ETL with Python
 
 <p align="center">
-  <img src="docs/_images/Batalla naval - Foto proyecto 1.png"/>
-</p>![image](https://github.com/floresernesto95/Images/blob/main/project-python-etl.png)
+  <img src="project-python-etl.png"/>
+</p>![image](https://github.com/floresernesto95/ETL-With-Python/assets/106546405/336a24ee-73a4-48ca-9123-541ecca0fd98)
+
 
 ## Project Overview
 
